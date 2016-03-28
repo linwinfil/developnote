@@ -24,3 +24,4 @@
 
 * [androidmvp](https://github.com/antoniolg/androidmvp)
 * [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
+* [Mosby - A Model-View-Presenter library for modern Android apps](https://github.com/sockeqwe/mosby)
