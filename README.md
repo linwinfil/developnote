@@ -25,3 +25,11 @@
 * [androidmvp](https://github.com/antoniolg/androidmvp)
 * [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI)
 * [Mosby - A Model-View-Presenter library for modern Android apps](https://github.com/sockeqwe/mosby)
+
+##从零开始的Android新项目 by *[zhaiyifan](http://blog.zhaiyifan.cn/)
+*[从零开始的Android新项目1 - 架构搭建篇](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p1/)
+*[从零开始的Android新项目2 - Gradle篇](http://blog.zhaiyifan.cn/2016/03/14/android-new-project-from-0-p2/)
+*[从零开始的Android新项目3 - MVPVM in Action, 谁告诉你MVP和MVVM是互斥的](http://blog.zhaiyifan.cn/2016/03/16/android-new-project-from-0-p3/)
+*[从零开始的Android新项目4 - Dagger2篇]http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/(http://blog.zhaiyifan.cn/2016/03/27/android-new-project-from-0-p4/)
+*[从零开始的Android新项目5 - Repository层(上) Retrofit、Repository组装](http://blog.zhaiyifan.cn/2016/04/30/android-new-project-from-0-p5/)
+*[从零开始的Android新项目6 - Repository层(下) Realm、缓存、异常处理](http://blog.zhaiyifan.cn/2016/05/15/android-new-project-from-0-p6/)
